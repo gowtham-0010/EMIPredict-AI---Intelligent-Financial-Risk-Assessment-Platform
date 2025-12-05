@@ -1,0 +1,29 @@
+# EMIPredict AI - Requirements
+# Python dependencies for the project
+
+# Core ML Libraries
+scikit-learn==1.3.2
+xgboost==2.0.3
+pandas==2.1.4
+numpy==1.26.2
+
+# MLflow for Experiment Tracking
+mlflow==2.9.2
+
+# Streamlit for Web Application
+streamlit==1.29.0
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Model Persistence
+joblib==1.3.2
+
+# Progress Bars
+tqdm==4.66.1
+
+# Other Dependencies
+python-dateutil==2.8.2
+pytz==2023.3
