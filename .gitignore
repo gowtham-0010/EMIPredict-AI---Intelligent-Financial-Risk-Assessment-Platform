@@ -1,0 +1,19 @@
+# Ignore virtual environment
+Emipredai311/
+venv/
+env/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Ignore MLflow experiment logs
+mlruns/
+
+# Ignore datasets
+data/*.csv
+
+# Ignore model files
+models/*.pkl
+models/*.sav
+models/*.joblib
